@@ -25,5 +25,5 @@
 
 ## 🔗 Репозитории
 
-- [Пример проекта 1](https://github.com/yourusername/project1)  
-- [Пример проекта 2](https://github.com/yourusername/project2)
+- [Пример проекта 1](https://github.com/darinamardeeva/ab_test_payment)  
+- [Пример проекта 2](https://github.com/darinamardeeva/marketplace_product_analytics)
