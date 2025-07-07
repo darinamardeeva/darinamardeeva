@@ -8,14 +8,9 @@
 - Email: dmardeeva1111@gmail.com  
 - Telegram: [@muddymind](https://t.me/muddymind)
 
-## 🛠 Скиллы
-
-- **Languages:** Python (pandas, numpy), SQL  
-- **Tools:** Airflow (ETL и автоматизация процессов)  
-- **Databases:** PostgreSQL  
-- **Visualization:** Redash, Datalens  
-- **Development:** PyCharm, Jupyter Notebook  
-- **Version Control:** Git  
+- **Skills**: `Python`, `SQL`, `Git`, `SQLALchemy`, `PostreSQL`, `Redash`, `FastAPI`, `Airflow`, `PyTorch`, `PyCharm`, `Jupyter Notebook`, `Command-line`
+- **Technologie**s: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `KNN`, `Linear/Logistic Regression`, `SVM`, `Decision trees`, `Random Forest`, `XGBoost`, `LightGBM`, `CatBoost`, `GridSearchCV`, `Optuna`
+---
 
 ## 🚀 Достижения
 
