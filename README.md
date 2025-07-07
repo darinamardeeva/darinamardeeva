@@ -41,4 +41,4 @@
 ---
 
 *Контакты:*  
-[Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Telegram](https://t.me/yourtelegram)
+[Email](dmardeeva1111@gmail.com) | [Telegram](https://t.me/muddymind)
