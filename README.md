@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Привет, я Дарина
 
-<!--
-**darinamardeeva/darinamardeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst с 4+ годами опыта в финансовом анализе и управленческой отчетности.
 
-Here are some ideas to get you started:
+Помогаю бизнесу принимать решения на основе данных: от автоматизации отчетности до анализа и визуализации ключевых метрик.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Фокус
+
+- автоматизация отчетности  
+- построение дашбордов  
+- анализ данных для бизнеса  
+- работа с API и проверка качества данных  
+
+---
+
+## 🛠️ Технологии
+
+**Языки и инструменты:**  
+Python, SQL, Git, Command-line  
+
+**Анализ данных:**  
+Pandas, NumPy, SciPy, Scikit-learn  
+
+**Инфраструктура:**  
+PostgreSQL, SQLAlchemy, FastAPI, Airflow  
+
+**Визуализация:**  
+Matplotlib, Seaborn, Redash, Datalens  
+
+---
+
+## 🚀 Достижения
+
+- Внедрила систему финансовой отчетности с нуля → сократила время подготовки отчетов на 40%  
+- Разработала автоматизированные KPI-дашборды → повысила прозрачность бизнес-метрик  
+- Оптимизировала SQL-запросы → ускорила работу с данными на 30%  
+
+---
+
+## 🔍 Проекты
+
+### 📌 API Testing (JSON Validation)
+Тестирование REST API с использованием Python:
+
+- проверка статус-кодов  
+- валидация структуры JSON  
+- проверка типов данных  
+- тестирование POST-запросов  
+
+👉 https://github.com/darinamardeeva/api-testing-json-validation
+
+
+### 📊 Автоматизация финансовой отчетности
+Проект по автоматизации отчетности и аналитики:
+
+- автоматизация расчёта финансовых показателей  
+- работа с SQL и Python  
+- подготовка данных для визуализации  
+- снижение времени подготовки отчетов  
+
+👉 https://github.com/darinamardeeva/ab_test_payment
+
+
+### 📈 Дашборд KPI
+Интерактивный дашборд для бизнес-метрик:
+
+- визуализация ключевых показателей  
+- анализ динамики данных  
+- повышение прозрачности для бизнеса  
+
+👉 https://github.com/darinamardeeva/marketplace_product_analytics
+
+
+---
+
+## 📫 Контакты
+
+Email: dmardeeva1111@gmail.com  
+Telegram: @muddymind  
